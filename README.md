@@ -6,6 +6,7 @@
   
  ## Otelin Genel Bina Planı
 ![image](https://user-images.githubusercontent.com/88087972/239207098-bb4ee3e5-845e-4d1d-aec0-9319c432d046.png)
+<p align="center"><sup>Görsel 1: Otelin Genel Bina Planı</sup></p>
 </br></br></br></br>
 
  ## Kullanılan Cihazların Listesi
@@ -68,14 +69,15 @@
 </br>
 
 ![image](https://user-images.githubusercontent.com/88087972/239206004-530b4702-9230-4f37-b28c-1e79dc2154af.png)
+<p align="center"><sup>Görsel 2: Otelin Ağ Topolojisi</sup></p>
 </br></br></br></br>
 	
  ## Projeye Ait Detaylı Kat Planları
  </br>
  
 ### 1.Kat:
-![image](https://github.com/sudenurGlcn/Hotel-Network-System/assets/114651615/4dded1c7-9e6c-4a4f-88a6-673efe0923c0)
-<p align="center">Görsel 3: 1.Kat Ağ Topolojisi</p></br>
+![image](https://user-images.githubusercontent.com/88087972/239249354-137601a7-93ce-42fe-b982-b9dbe2ff4e72.png)
+<p align="center"><sup>Görsel 3: 1.Kat Ağ Topolojisi</sup></p></br>
 
 *A. Resepsiyon:*
 -	VLAN 10, IP adresi: 192.168.1.0/24
@@ -88,8 +90,8 @@
 </br></br></br></br>
 
 ### 2.Kat:
-![image](https://github.com/sudenurGlcn/Hotel-Network-System/assets/114651615/96253b48-4f57-498a-a27e-00ae8dd7a46c)
-<p align="center">Görsel 4: 2.Kat Ağ Topolojisi</p></br>
+![image](https://user-images.githubusercontent.com/88087972/239248921-bae64d83-7f35-48c3-8312-a2ea0f123f89.png)
+<p align="center"><sup>Görsel 4: 2.Kat Ağ Topolojisi</sup></p></br>
  
 *A. Oda-101:* 
 -	VLAN 40, IP adresi: 192.168.4.0/24
@@ -103,7 +105,7 @@
 
 ### 3.Kat:
 ![floor3](https://user-images.githubusercontent.com/88087972/239197852-4fc78acf-7417-4d76-b3bc-f71f000e132a.png)
-<p align="center">Görsel 5: 3.Kat Ağ Topolojisi</p></br>
+<p align="center"><sup>Görsel 5: 3.Kat Ağ Topolojisi</sup></p></br>
 
 *A. Toplantı Odası:* 
 -	VLAN 90, IP adresi: 192.168.9.0/24
@@ -117,7 +119,7 @@
 
 ### 4.Kat:
 ![floor4](https://user-images.githubusercontent.com/88087972/239198188-9b3319ac-474e-4ed1-a738-54588c061046.png)
-<p align="center">Görsel 6: 4.Kat Ağ Topolojisi</p></br>
+<p align="center"><sup>Görsel 6: 4.Kat Ağ Topolojisi</sup></p></br>
 
 *A. Admin:* 
 -	VLAN 110, IP adresi: 192.168.11.0/24
@@ -127,19 +129,19 @@
 
 ## Otomasyon Sistemi
 <p align="center"><img src="https://user-images.githubusercontent.com/88087972/239198431-495fc919-9eaf-4679-b7d3-4fbce33ddf03.png"/></p>
-<p align="center">Görsel 7: IoT Login Ekranı</p></br></br></br></br></br></br>
+<p align="center"><sup>Görsel 7: IoT Login Ekranı</sup></p></br></br></br></br></br></br></br>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/88087972/239198624-a0e6a60e-655c-49b1-b59a-5b364c84197e.png"/></p>
-<p align="center">Görsel 8: 1.Kat IoT Konfigürasyonu</p></br></br></br></br></br></br>
+<p align="center"><sup>Görsel 8: 1.Kat IoT Konfigürasyonu</sup></p></br></br></br></br></br></br>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/88087972/239198640-5adc7777-671b-459a-b612-51a66dc3ff78.png"/></p>
-<p align="center">Görsel 9: 2.Kat IoT Konfigürasyonu</p></br></br></br></br></br></br>
+<p align="center"><sup>Görsel 9: 2.Kat IoT Konfigürasyonu</sup></p></br></br></br></br></br></br>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/88087972/239198641-1e92e6ec-4224-464b-ab1b-cd0d26f359f6.png"/></p>
-<p align="center">Görsel 10: 3.Kat IoT Konfigürasyonu</p></br></br></br></br></br></br>
+<p align="center"><sup>Görsel 10: 3.Kat IoT Konfigürasyonu</sup></p></br></br></br></br></br></br>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/88087972/239199646-139cfbf3-a772-48bc-834a-b6fa99329e7a.png"/></p>
-<p align="center">Görsel 11: 4.Kat IoT Konfigürasyonu</p>
+<p align="center"><sup>Görsel 11: 4.Kat IoT Konfigürasyonu</sup></p></br></br></br></br></br></br>
 
 
 ## Kaynakça
